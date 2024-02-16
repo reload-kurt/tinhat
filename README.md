@@ -1,6 +1,6 @@
 # TinHat - the dumbest, little reactive library in < 3kb.
 
-Written mainly as a silly experiment to see if really need all that juicy reactivity that React brings with the overload of `node_modules`.
+Written mainly as a silly experiment to see if we really need all that juicy reactivity that React brings with the overload of `node_modules`.
 
 ## Usage
 
